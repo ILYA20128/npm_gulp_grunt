@@ -1,0 +1,21 @@
+{
+  "name": "project_DZ_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-less": "^4.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-watch-less": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
